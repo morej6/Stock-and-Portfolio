@@ -1,0 +1,7 @@
+﻿  Stock.cpp
+  Portfolio.cpp
+d:\visual studio 2015\data struct project\data struct 1\data struct 1\portfolio.cpp(32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Data Struct 1.vcxproj -> D:\Visual Studio 2015\Data Struct Project\Data Struct 1\Debug\Data Struct 1.exe
+  Data Struct 1.vcxproj -> D:\Visual Studio 2015\Data Struct Project\Data Struct 1\Debug\Data Struct 1.pdb (Partial PDB)
